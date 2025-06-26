@@ -75,8 +75,7 @@ Se generaron múltiples visualizaciones para evaluar el comportamiento de los mo
 ![image](https://github.com/user-attachments/assets/e911253a-a8b2-4ae6-81bb-7ff4ebe13cf7)
 
 ### Modelo BERT
-![image](https://github.com/user-attachments/assets/a4ad481b-0d03-442d-a3e2-a7aedf75be23)
-
+![image](https://github.com/user-attachments/assets/0ee08497-52db-4e11-b6b2-5b17135fc833)
 
 ## Tecnologías Utilizadas
 
@@ -120,10 +119,6 @@ film-junky-union/
 ├── docs/
 ├── requirements.txt
 └── .gitignore```
-
-
-
-
 
 
 
