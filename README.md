@@ -5,7 +5,7 @@
 Film Junky Union, una comunidad vanguardista para cinéfilos, busca automatizar el filtrado de reseñas de películas clásicas con el fin de identificar automáticamente las críticas negativas. Para lograrlo, se entrenó un modelo de machine learning usando reseñas etiquetadas de IMDB, con el objetivo de alcanzar un **valor F1 mínimo de 0.85**.
 
 ## Arquitectura del Proyecto
-![image](https://github.com/user-attachments/assets/8fc0e165-6c52-44c2-b4cb-7c2e197eaa3e)
+![image](https://github.com/user-attachments/assets/73d4e0af-40f5-49f6-bd6e-758a4185696b)
 
 ## Metodología
 
@@ -117,9 +117,4 @@ film-junky-union/
 ├── results/
 ├── docs/
 ├── requirements.txt
-└── .gitignore```
-
-
-
-
-
+└── .gitignore
