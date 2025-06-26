@@ -66,7 +66,7 @@ Se generaron múltiples visualizaciones para evaluar el comportamiento de los mo
 ![image](https://github.com/user-attachments/assets/f2308be0-2c33-442c-8750-15268c270ba4)
 
 ### Distribución de reseñas negativas y positivas a lo largo de los años para dos partes del conjunto de datos
-![image](https://github.com/user-attachments/assets/5debacf0-67c6-49ad-9c58-cd92e96506f1)
+![image](https://github.com/user-attachments/assets/14dbb3ad-6778-428c-a51a-9cdc722a00fc)
 
 ### Modelo 0
 ![image](https://github.com/user-attachments/assets/a825cb20-fbce-4c31-a54d-b220b2e2e9e3)
