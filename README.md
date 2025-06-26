@@ -55,6 +55,8 @@ Se entrenaron distintos clasificadores para evaluar su rendimiento:
 Se generaron múltiples visualizaciones para evaluar el comportamiento de los modelos:
 
 ### EDA 
+![image](https://github.com/user-attachments/assets/ab5c73ab-6000-42ec-80c2-5327c49d02de)
+
 
 
 
