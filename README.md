@@ -105,7 +105,7 @@ En resumen, **TF-IDF + modelos lineales** demuestran ser una solución potente, 
 
 
 ## Estructura del Proyecto
-'''
+```
 film-junky-union/
 ├── README.md
 ├── data/
@@ -119,7 +119,7 @@ film-junky-union/
 ├── results/
 ├── docs/
 ├── requirements.txt
-└── .gitignore
+└── .gitignore```
 
 
 
